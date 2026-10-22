@@ -7,5 +7,10 @@
   },
   "private": true,
   "type": "module",
-  "description": "Canonical serialization boundary for reusable HTML carriers, packets, and safe document assembly."
+  "description": "Canonical serialization boundary for reusable HTML carriers, packets, and safe document assembly.",
+  "license": "MIT",
+  "funding": {
+    "type": "individual",
+    "url": "https://github.com/561-group/.github/blob/main/TIPS.md"
+  }
 }
